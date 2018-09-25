@@ -1,0 +1,23 @@
+_repo: Ping-Iau-Chuan_57227
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Feng, Meng Long
+    gutenberg_agent_id: '49261'
+    url: http://www.gutenberg.org/2009/agents/49261
+  - agent_name: Luo, Guan Jung
+    gutenberg_agent_id: '49262'
+    url: http://www.gutenberg.org/2009/agents/49262
+description: ''
+gutenberg_issued: '2018-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57227'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ping Iau Chuan
+url: http://www.gutenberg.org/ebooks/57227
