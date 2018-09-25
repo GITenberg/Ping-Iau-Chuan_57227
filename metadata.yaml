@@ -1,5 +1,8 @@
 _repo: Ping-Iau-Chuan_57227
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Feng, Meng Long
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49262'
     url: http://www.gutenberg.org/2009/agents/49262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57227#Ping-Iau-Chuan
 gutenberg_issued: '2018-05-28'
 gutenberg_type: Text
 identifiers:
